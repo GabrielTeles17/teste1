@@ -20,6 +20,6 @@
 
 h1{color: black;}
 
-p{font-size: 50pix;}
+p{font-size: 50px;}
 
-.lista{text-align: center;}
+.lista{align-items:center;}
