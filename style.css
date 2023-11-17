@@ -2,12 +2,12 @@
 padding:0;}
 
 
+body{ background-color: black;}
 
 
-
-.logomarca{
+ .logomarca{
    background-color: black;
-      text-align: center;
+   text-align: center;
 
 
 }
@@ -21,13 +21,13 @@ padding:0;}
 
 
 .principal{  
-   background-color: white;
+   color: white;
     text-align: center
 }
 
-h1{color: black;}
+h1{color: rgb(255, 255, 255);}
 
-p{font-size: 25px;}
+p{font-size: 45px;}
 
 .lista{align-items:center;}
 
